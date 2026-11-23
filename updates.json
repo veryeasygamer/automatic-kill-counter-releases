@@ -1,0 +1,140 @@
+{
+ "pt": [
+  [
+   "v27",
+   [
+    "O contador Abates (desde o último Great One), com −1, +1 e Zerar Contador, agora só aparece para animais que têm Great One; nos demais, fica apenas o Total Geral de Abates.",
+    "No HUD da transmissão, o contador de Abates após o último Great One, o rótulo e o ícone Great One só aparecem quando o animal ativo tem Great One.",
+    "Modo Compacto: a janela agora termina logo abaixo do bloco USUÁRIOS, sem o rodapé Personalizar HUD/HUD, e a altura é recalculada quando os números carregam.",
+    "Personalizar HUD: o rótulo de Abates e o rótulo do Total Geral de Abates agora são opções separadas, em texto de duas linhas, e cada rótulo pertence só ao seu ícone.",
+    "Quando o Total Geral de Abates fica sozinho (animal sem Great One), ele assume a aparência do contador Abates: mesma cor, tamanho e posição.",
+    "Novas Estatísticas por contador: botão no quadro do animal com prévia, janela por mês com tempo jogado (só com o jogo aberto), abates por dia e por sessão, evolução diária com picos, troféus (com pelagem rara e super raro), metas, melhores marcas, sequência de dias, mapa de horários, reservas, resumo mensal, ranking de todos os contadores, exportação em imagem/CSV e backup só das estatísticas.",
+    "Textos e a janela Informações atualizados."
+   ]
+  ],
+  [
+   "v26",
+   [
+    "Novo mapa de Zonas de Necessidade: escolha reserva, animal e tipo de zona (Comida, Bebida, Descanso ou Todas) e veja as zonas no mapa, com horários de cada tipo abaixo dos botões.",
+    "Zoom com a roda do mouse e arrastar o mapa, válidos apenas dentro da janela do mapa; o botão Restaurar zoom volta à vista completa.",
+    "As zonas agora são carregadas de uma referência fixa, sem precisar ler o save para exibir os pontos; os horários continuam vindo do seu save.",
+    "Botão Zonas de Necessidade reposicionado na barra lateral, entre Modo Compacto e Limpar Histórico.",
+    "Modo Compacto renomeado e a janela ajusta a altura para mostrar a barra lateral sem cortes.",
+    "Backup na Nuvem exibe o intervalo do backup automático configurado.",
+    "Textos revisados nos três idiomas e janela de Informações atualizada com as novidades, sem repetições."
+   ]
+  ],
+  [
+   "v25",
+   [
+    "Novo Backup na Nuvem (Google Drive): envia o save para uma pasta privada do painel na sua conta do Google, com backup manual ou automático, guarda 2 versões e baixa de volta com substituição só do que mudou.",
+    "Meus Contadores agora mostra primeiro a lista de reservas; clique numa reserva para expandir seus contadores dentro da mesma janela, sem abrir uma janela nova por reserva.",
+    "A janela de Informações do animal agora indica quando a espécie tem variante Great One reconhecida.",
+    "O painel se adapta melhor a diferentes resoluções e escalas de tela do Windows."
+   ]
+  ],
+  [
+   "v24",
+   [
+    "Janelas do painel com títulos próprios e melhor controle para captura no OBS.",
+    "Catálogo das 127 espécies, alerta sonoro de espécie nova e seleção da origem local do save.",
+    "Editor do HUD com perfis, ícones e tamanhos ajustáveis; modo compacto, alinhamento e ferramentas de backup/reset.",
+    "Consultas de animais e galeria de pelagens e probabilidades em uma única janela capturável no OBS.",
+    "Totais históricos de Trial e Licenciados, atualizados a cada 20 minutos, e contador de usuários simultâneos.",
+    "Troll automático compara a população antes/depois e só marca uma remoção única com potencial Diamante, nível máximo, Ouro e integridade aprovada. Em caso de ambiguidade, não adivinha. Ícone Troll agora sem halo externo."
+   ]
+  ]
+ ],
+ "en": [
+  [
+   "v27",
+   [
+    "The Harvests counter (since the last Great One), with its −1, +1 and Reset Counter buttons, now only appears for animals that have a Great One; for all others, only Overall Harvests is shown.",
+    "On the stream HUD, the Harvests-after-the-last-Great-One counter, its label and the Great One icon only appear when the active animal has a Great One.",
+    "Compact Mode: the window now ends right below the USERS block, without the Customize HUD/HUD footer, and its height is recalculated once the numbers load.",
+    "Customize HUD: the Harvests label and the Overall Harvests label are now separate options, as two-line text, and each label belongs only to its own icon.",
+    "When Overall Harvests is alone (animal without a Great One), it takes on the look of the Harvests counter: same color, size and position.",
+    "New per-counter Statistics: a button on the animal card with a preview, a per-month window with play time (only while the game is running), harvests per day and per session, daily progress with peaks, trophies (with rare fur and super rare), goals, personal bests, day streak, hour map, reserves, monthly summary, ranking of all counters, image/CSV export and a statistics-only backup.",
+    "Texts and the Information window updated."
+   ]
+  ],
+  [
+   "v26",
+   [
+    "New Need Zones map: choose reserve, animal and zone type (Food, Drink, Rest or All) and see the zones on the map, with each type's hours below the zoom buttons.",
+    "Mouse wheel zoom and map dragging, active only inside the map window; Reset zoom returns to the full view.",
+    "Zones now come from a fixed reference, so the save is not read to display the points; active hours still come from your save.",
+    "Need Zones button moved in the sidebar, between Compact Mode and Clear History.",
+    "Compact Mode renamed, and the window height adjusts to show the whole sidebar without clipping.",
+    "Cloud Backup shows the configured automatic backup interval.",
+    "Texts reviewed in all three languages, and the Information window updated with the new features without repetition."
+   ]
+  ],
+  [
+   "v25",
+   [
+    "New Cloud Backup (Google Drive): uploads the save to a private panel folder in your Google account, with manual or automatic backup, keeps 2 versions, and downloads back replacing only what changed.",
+    "My Counters now shows the reserve list first; click a reserve to expand its counters inside the same window, without opening a new window per reserve.",
+    "The animal Information window now shows when a species has a recognized Great One variant.",
+    "The panel now adapts better to different Windows screen resolutions and scaling settings."
+   ]
+  ],
+  [
+   "v24",
+   [
+    "Panel windows have individual titles and improved controls for OBS window capture.",
+    "Catalog for all 127 species, sound alert for unknown species, and local save-source selection.",
+    "HUD editor with profiles, custom icons and sizing; compact mode, alignment, and backup/reset tools.",
+    "Animal details and coat/probability gallery in one OBS-capturable window.",
+    "Historical Trial and Licensed totals refresh every 20 minutes, with a simultaneous-user counter.",
+    "Automatic Troll detection compares population before/after and marks only one unique removal with Diamond potential, max level, Gold, and passed integrity checks. Ambiguous matches are not guessed. Troll icon now has no outer halo."
+   ]
+  ]
+ ],
+ "es": [
+  [
+   "v27",
+   [
+    "El contador Abates (desde el último Great One), con −1, +1 y Reiniciar contador, ahora solo aparece para animales que tienen Great One; en los demás solo se muestra el Total general.",
+    "En el HUD de la retransmisión, el contador de Abates posterior al último Great One, su etiqueta y el icono Great One solo aparecen cuando el animal activo tiene Great One.",
+    "Modo Compacto: la ventana ahora termina justo debajo del bloque USUARIOS, sin el pie Personalizar HUD/HUD, y la altura se recalcula cuando cargan los números.",
+    "Personalizar HUD: la etiqueta de Abates y la etiqueta del Total general ahora son opciones separadas, en texto de dos líneas, y cada etiqueta pertenece solo a su icono.",
+    "Cuando el Total general queda solo (animal sin Great One), adopta el aspecto del contador Abates: mismo color, tamaño y posición.",
+    "Nuevas Estadísticas por contador: botón en el cuadro del animal con vista previa, ventana por mes con tiempo jugado (solo con el juego abierto), capturas por día y por sesión, evolución diaria con picos, trofeos (con pelaje raro y super raro), metas, mejores marcas, racha de días, mapa de horarios, reservas, resumen mensual, ranking de todos los contadores, exportación a imagen/CSV y respaldo solo de las estadísticas.",
+    "Textos y ventana de Información actualizados."
+   ]
+  ],
+  [
+   "v26",
+   [
+    "Nuevo mapa de Zonas de necesidad: elige reserva, animal y tipo de zona (Comida, Bebida, Descanso o Todas) y ve las zonas en el mapa, con los horarios de cada tipo debajo de los botones de zoom.",
+    "Zoom con la rueda del ratón y arrastre del mapa, válidos solo dentro de la ventana del mapa; Restablecer zoom vuelve a la vista completa.",
+    "Las zonas ahora provienen de una referencia fija, sin leer la partida para mostrar los puntos; los horarios siguen viniendo de tu partida.",
+    "Botón Zonas de necesidad reubicado en la barra lateral, entre Modo Compacto y Limpiar historial.",
+    "Modo Compacto renombrado y la ventana ajusta su altura para mostrar toda la barra lateral sin cortes.",
+    "Copia en la nube muestra el intervalo configurado de la copia automática.",
+    "Textos revisados en los tres idiomas y ventana de Información actualizada con las novedades, sin repeticiones."
+   ]
+  ],
+  [
+   "v25",
+   [
+    "Nueva Copia en la nube (Google Drive): envía la partida a una carpeta privada del panel en tu cuenta de Google, con copia manual o automática, conserva 2 versiones y descarga de vuelta sustituyendo solo lo que cambió.",
+    "Mis contadores ahora muestra primero la lista de reservas; haz clic en una reserva para expandir sus contadores dentro de la misma ventana, sin abrir una ventana nueva por reserva.",
+    "La ventana de Información del animal ahora indica cuándo la especie tiene una variante Great One reconocida.",
+    "El panel ahora se adapta mejor a distintas resoluciones y escalas de pantalla de Windows."
+   ]
+  ],
+  [
+   "v24",
+   [
+    "Las ventanas del panel tienen títulos propios y mejores controles para capturarlas en OBS.",
+    "Catálogo de las 127 especies, alerta sonora para especies desconocidas y selección del origen local de la partida.",
+    "Editor HUD con perfiles, iconos y tamaños personalizables; modo compacto, alineación y herramientas de copia/restablecimiento.",
+    "Detalles de animales y galería de pelajes/probabilidades en una sola ventana capturable en OBS.",
+    "Totales históricos de Trial y Licenciados, actualizados cada 20 minutos, y contador de usuarios simultáneos.",
+    "La detección automática de Troll compara la población antes/después y solo marca una eliminación única con potencial Diamante, nivel máximo, Oro e integridad aprobada. No adivina si hay ambigüedad. El icono Troll ya no tiene halo exterior."
+   ]
+  ]
+ ]
+}
