@@ -1,6 +1,23 @@
 {
  "pt": [
   [
+   "v28",
+   [
+    "Novo botão Overlay: mostra o HUD por cima do jogo, em modo janela ou tela cheia sem bordas, sem precisar do OBS. É opcional e não altera o HUD da transmissão. Não funciona em tela cheia exclusiva (limitação do Windows): use janela ou janela sem bordas.",
+    "O Overlay é igual ao HUD que vai para o OBS: usa exatamente o que você definiu em Personalizar HUD (ícones, tamanhos, cores, textos e quais contadores aparecem), tanto na horizontal quanto na vertical.",
+    "Posição do Overlay: esquerda, direita, horizontal em cima ou horizontal embaixo (botão direito no botão Overlay). A troca é instantânea, sem precisar desligar e ligar, e mantém sua personalização em todas as posições.",
+    "Arraste o Overlay para qualquer lugar da tela: passe o mouse sobre o ícone do animal e, quando aparecer a indicação de arrastar, segure e mova. A posição fica salva; escolher uma posição pronta devolve o Overlay à borda.",
+    "Tamanho do Overlay: barra de ajuste livre de 10% a 100% (botão direito em Overlay, depois Tamanho do Overlay). Horizontal e vertical usam sempre a mesma escala.",
+    "Os cliques passam direto para o jogo; só o ícone do animal captura o mouse (para arrastar). Se você transmite a tela inteira no OBS, o HUD aparecerá duas vezes; capture apenas a janela do jogo.",
+    "Os botões HUD e Overlay ativos agora ficam em verde, diferente dos demais botões, para você saber o que está ligado. Os dois ganharam dicas explicando como funcionam e suas limitações.",
+    "Personalizar HUD: ao clicar em Aplicar, uma mensagem confirma que a personalização foi salva. A seção repetida Ícones dos rótulos foi removida; os ícones continuam sendo escolhidos nos cartões de cada contador.",
+    "Personalizar HUD: o HUD horizontal e o vertical agora seguem exatamente a mesma personalização. Ao alterar um, o outro acompanha.",
+    "Ícones e imagens carregados no Personalizar HUD ficam muito mais limpos: a remoção de fundo foi refeita para eliminar manchas e resíduos ao redor do desenho.",
+    "Correção do contador Troll: animais que não estavam no nível máximo (por exemplo, um gamo e um alce de classe 4) estavam sendo contados como Troll por engano. Agora, além do nível máximo, o painel confere também o peso do animal e só conta Troll quando ele realmente está na faixa de peso do nível máximo da espécie. Se algum Troll já foi contado errado, ajuste pelo botão direito no número do Troll.",
+    "Revisão completa dos 3 idiomas (português, inglês e espanhol): mensagens do atualizador, da cópia na nuvem e do login do Google, erros do GitHub, menus, dicas e a janela Informações, incluindo o Overlay."
+   ]
+  ],
+  [
    "v27",
    [
     "O contador Abates (desde o último Great One), com −1, +1 e Zerar Contador, agora só aparece para animais que têm Great One; nos demais, fica apenas o Total Geral de Abates.",
@@ -47,6 +64,23 @@
  ],
  "en": [
   [
+   "v28",
+   [
+    "New Overlay button: shows the HUD on top of the game, in windowed or borderless fullscreen mode, without needing OBS. It is optional and does not change the stream HUD. It does not work in exclusive fullscreen (a Windows limitation): use windowed or borderless.",
+    "The Overlay matches the HUD sent to OBS: it uses exactly what you set in Customize HUD (icons, sizes, colors, texts and which counters are shown), both horizontal and vertical.",
+    "Overlay position: left, right, horizontal top or horizontal bottom (right-click the Overlay button). Switching is instant, with no need to turn it off and on, and keeps your personalisation in every position.",
+    "Drag the Overlay anywhere on the screen: hover over the animal icon and, when the drag hint appears, hold and move. The position is saved; choosing a preset position sends the Overlay back to that edge.",
+    "Overlay size: free adjustment bar from 10% to 100% (right-click Overlay, then Overlay size). Horizontal and vertical always use the same scale.",
+    "Clicks go straight through to the game; only the animal icon captures the mouse (for dragging). If you stream your whole screen in OBS, the HUD will show twice; capture only the game window.",
+    "The active HUD and Overlay buttons now turn green, different from the other buttons, so you can tell what is on. Both now have tooltips explaining how they work and their limits.",
+    "Customize HUD: clicking Apply now shows a message confirming the personalisation was saved. The duplicated Label icons section was removed; icons are still chosen in each counter's card.",
+    "Customize HUD: the horizontal and vertical HUD now follow exactly the same personalisation. Changing one updates the other.",
+    "Icons and images loaded in Customize HUD come out much cleaner: background removal was rebuilt to eliminate smudges and residue around the artwork.",
+    "Troll counter fix: animals that were not at the maximum level (for example a class 4 fallow deer and a class 4 moose) were being counted as Troll by mistake. Now, besides the maximum level, the panel also checks the animal's weight and only counts a Troll when it is really within the species' maximum-level weight range. If a Troll was already counted wrongly, adjust it with a right-click on the Troll number.",
+    "Full review of all 3 languages (Portuguese, English and Spanish): updater, cloud backup and Google login messages, GitHub errors, menus, tooltips and the Information window, including the Overlay."
+   ]
+  ],
+  [
    "v27",
    [
     "The Harvests counter (since the last Great One), with its −1, +1 and Reset Counter buttons, now only appears for animals that have a Great One; for all others, only Overall Harvests is shown.",
@@ -92,6 +126,23 @@
   ]
  ],
  "es": [
+  [
+   "v28",
+   [
+    "Nuevo botón Overlay: muestra el HUD sobre el juego, en modo ventana o pantalla completa sin bordes, sin necesitar OBS. Es opcional y no cambia el HUD de la transmisión. No funciona en pantalla completa exclusiva (limitación de Windows): usa ventana o ventana sin bordes.",
+    "El Overlay es igual al HUD que va a OBS: usa exactamente lo que definiste en Personalizar HUD (iconos, tamaños, colores, textos y qué contadores aparecen), tanto en horizontal como en vertical.",
+    "Posición del Overlay: izquierda, derecha, horizontal arriba u horizontal abajo (clic derecho en el botón Overlay). El cambio es instantáneo, sin apagar y encender, y mantiene tu personalización en todas las posiciones.",
+    "Arrastra el Overlay a cualquier lugar de la pantalla: pasa el ratón sobre el icono del animal y, cuando aparezca la indicación de arrastre, mantén y mueve. La posición se guarda; elegir una posición predefinida devuelve el Overlay al borde.",
+    "Tamaño del Overlay: barra de ajuste libre del 10% al 100% (clic derecho en Overlay, luego Tamaño del Overlay). Horizontal y vertical usan siempre la misma escala.",
+    "Los clics pasan directamente al juego; solo el icono del animal captura el ratón (para arrastrar). Si transmites toda la pantalla en OBS, el HUD aparecerá dos veces; captura solo la ventana del juego.",
+    "Los botones HUD y Overlay activos ahora se ponen en verde, distinto de los demás botones, para saber qué está encendido. Ambos tienen sugerencias que explican cómo funcionan y sus límites.",
+    "Personalizar HUD: al hacer clic en Aplicar, un mensaje confirma que la personalización se guardó. Se quitó la sección repetida Iconos de las etiquetas; los iconos se siguen eligiendo en las tarjetas de cada contador.",
+    "Personalizar HUD: el HUD horizontal y el vertical ahora siguen exactamente la misma personalización. Al cambiar uno, el otro lo acompaña.",
+    "Los iconos e imágenes cargados en Personalizar HUD quedan mucho más limpios: se rehízo la eliminación de fondo para quitar manchas y residuos alrededor del dibujo.",
+    "Corrección del contador Troll: animales que no estaban en el nivel máximo (por ejemplo, un gamo y un alce de clase 4) se contaban como Troll por error. Ahora, además del nivel máximo, el panel también comprueba el peso del animal y solo cuenta un Troll cuando realmente está dentro del rango de peso del nivel máximo de la especie. Si un Troll ya se contó mal, ajústalo con clic derecho en el número del Troll.",
+    "Revisión completa de los 3 idiomas (portugués, inglés y español): mensajes del actualizador, de la copia en la nube y del inicio de sesión de Google, errores de GitHub, menús, sugerencias y la ventana Información, incluido el Overlay."
+   ]
+  ],
   [
    "v27",
    [
