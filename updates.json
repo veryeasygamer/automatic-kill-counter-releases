@@ -1,6 +1,19 @@
 {
  "pt": [
   [
+   "v29",
+   [
+    "Estatísticas alinhadas com os contadores: a janela ganhou o quadro Contadores, com Abates, Total Geral, Diamante, Great One, Pelagem rara, Super raro e Troll exatamente como no painel. Para cada um, mostra quanto vem do histórico por dia e quanto foi adicionado manualmente (inserido ou ajustado à mão, ou trazido de outros contadores usados anteriormente). Troll agora também entra no histórico, e Great One não é mais contado como Pelagem rara nas Estatísticas.",
+    "Contadores de Pelagem rara e Super raro revisados: o número de cada ícone é a soma das caixinhas do seu grupo (Pelagem rara = pelagens raras de animais que não são Diamante; Super raro = Diamantes com pelagem rara) mais os ajustes manuais livres. Um Diamante com pelagem rara conta só em Super raro, e as variantes Great One têm contadores próprios e não entram em Pelagem rara. As caixinhas de pelagem continuam somando os dois grupos. Isso corrige as pelagens raras automáticas (como a eritrística do gamo) que podiam não aparecer no número do ícone em contadores longos. As 433 pelagens raras do catálogo foram testadas na contagem.",
+    "Inserir Manualmente e Remover Manualmente nos contadores: ao clicar com o botão direito em Diamante, Great One, Pelagem rara, Super raro ou Troll, além de +1 e −1, você agora pode somar ou subtrair uma quantidade digitada. Inserir Manualmente soma ao que já existe (com 100 no contador, inserir 200 resulta em 300) e Remover Manualmente subtrai. Em Pelagem rara e Super raro, +1 e −1 continuam pedindo a pelagem, mas Inserir Manualmente e Remover Manualmente não pedem: só mudam o número do ícone, sem alterar as caixinhas de pelagem, Abates nem Total Geral; no Troll o painel pergunta a pelagem uma vez e ela vale para todos; em Great One pede uma única confirmação. Se não der para remover tudo o que foi pedido, o painel avisa quantos foram removidos. Em Diamante, somar ou subtrair também soma ou subtrai em Abates e no Total Geral, como acontece com o Troll.",
+    "O HUD também é compatível com o Streamlabs. O HUD transparente funciona da mesma forma no OBS Studio e no Streamlabs (Streamlabs Desktop): os passos são os mesmos e o painel gera os mesmos PNGs horizontal e vertical. Janelas, menus, dicas, mensagens e a seção Informações agora citam os dois programas.",
+    "Backup na Nuvem: a janela não fica mais presa em \"Enviando para a nuvem…\". Quando o envio, a verificação ou a atualização termina, o resultado aparece na hora (horário do backup, quantos arquivos foram enviados).",
+    "Backup na Nuvem: a janela \"Save diferente na nuvem\" voltou a abrir corretamente quando o seu save e o da nuvem são diferentes. Nela você escolhe entre atualizar este computador com a nuvem, enviar este computador para a nuvem ou decidir depois.",
+    "Backup na Nuvem: se algo der errado ao mostrar o resultado, o painel avisa e libera os botões em vez de ficar parado. Use Verificar agora para conferir se o backup foi concluído.",
+    "Revisão em 3 idiomas (português, inglês e espanhol) das mensagens novas do Backup na Nuvem."
+   ]
+  ],
+  [
    "v28",
    [
     "Novo botão Overlay: mostra o HUD por cima do jogo, em modo janela ou tela cheia sem bordas, sem precisar do OBS. É opcional e não altera o HUD da transmissão. Não funciona em tela cheia exclusiva (limitação do Windows): use janela ou janela sem bordas.",
@@ -64,6 +77,19 @@
  ],
  "en": [
   [
+   "v29",
+   [
+    "Statistics aligned with the counters: the window now has a Counters card with Harvests, Overall Harvests, Diamond, Great One, Rare fur, Super rare and Troll exactly as in the panel. For each one it shows how much comes from the daily history and how much was added manually (entered or adjusted by hand, or brought from other counters used previously). Troll is now part of the history too, and Great One is no longer counted as Rare fur in Statistics.",
+    "Rare fur and Super rare counters reviewed: each icon's number is the sum of the fur boxes of its group (Rare fur = rare furs of animals that are not Diamond; Super rare = Diamonds with a rare fur) plus free manual adjustments. A Diamond with a rare fur counts only in Super rare, and Great One variants have their own counters and are not part of Rare fur. The fur boxes keep adding both groups together. This fixes automatic rare furs (such as the Fallow Deer's Erythristic) that could fail to show in the icon's number on long counters. All 433 rare furs in the catalog were tested in the count.",
+    "Enter Manually and Remove Manually on counters: when you right-click Diamond, Great One, Rare fur, Super rare or Troll, besides +1 and −1 you can now add or subtract a quantity you type. Enter Manually adds to what is already there (with 100 on the counter, entering 200 gives 300) and Remove Manually subtracts. For Rare fur and Super rare, +1 and −1 still ask for the fur, but Enter Manually and Remove Manually do not: they only change the icon's number, leaving the fur tiles, Harvests and Overall Harvests untouched; for Troll the panel asks for the fur once and it applies to all of them; for Great One it asks for a single confirmation. If the full amount cannot be removed, the panel tells you how many were removed. For Diamond, adding or subtracting also adds or subtracts on Harvests and Overall Harvests, just like Troll.",
+    "The HUD is now also compatible with Streamlabs. The transparent HUD works the same way in OBS Studio and Streamlabs (Streamlabs Desktop): the steps are the same and the panel generates the same horizontal and vertical PNGs. Windows, menus, tips, messages and the Information section now mention both programs.",
+    "Cloud Backup: the window no longer gets stuck on \"Uploading to the cloud…\". When an upload, check or update finishes, the result shows right away (backup time and how many files were sent).",
+    "Cloud Backup: the \"Different save in the cloud\" window opens correctly again when your save and the cloud's differ. There you choose to update this computer from the cloud, send this computer to the cloud, or decide later.",
+    "Cloud Backup: if something goes wrong while showing the result, the panel warns you and frees the buttons instead of freezing. Use Check now to confirm the backup finished.",
+    "Review in 3 languages (Portuguese, English and Spanish) of the new Cloud Backup messages."
+   ]
+  ],
+  [
    "v28",
    [
     "New Overlay button: shows the HUD on top of the game, in windowed or borderless fullscreen mode, without needing OBS. It is optional and does not change the stream HUD. It does not work in exclusive fullscreen (a Windows limitation): use windowed or borderless.",
@@ -126,6 +152,19 @@
   ]
  ],
  "es": [
+  [
+   "v29",
+   [
+    "Estadísticas alineadas con los contadores: la ventana ahora tiene el cuadro Contadores con Abates, Total general, Diamante, Great One, Pelaje raro, Super raro y Troll exactamente como en el panel. Para cada uno muestra cuánto viene del historial por día y cuánto se añadió manualmente (introducido o ajustado a mano, o traído de otros contadores usados anteriormente). Troll también entra ahora en el historial, y Great One ya no se cuenta como Pelaje raro en las Estadísticas.",
+    "Contadores de Pelaje raro y Super raro revisados: el número de cada icono es la suma de las casillas de su grupo (Pelaje raro = pelajes raros de animales que no son Diamante; Super raro = Diamantes con pelaje raro) más los ajustes manuales libres. Un Diamante con pelaje raro cuenta solo en Super raro, y las variantes Great One tienen contadores propios y no entran en Pelaje raro. Las casillas de pelaje siguen sumando los dos grupos. Esto corrige los pelajes raros automáticos (como el eritrístico del gamo) que podían no aparecer en el número del icono en contadores largos. Los 433 pelajes raros del catálogo se probaron en el recuento.",
+    "Introducir manualmente y Quitar manualmente en los contadores: al hacer clic derecho en Diamante, Great One, Pelaje raro, Super raro o Troll, además de +1 y −1 ahora puedes sumar o restar una cantidad escrita. Introducir manualmente suma a lo que ya hay (con 100 en el contador, introducir 200 da 300) y Quitar manualmente resta. En Pelaje raro y Super raro, +1 y −1 siguen pidiendo el pelaje, pero Introducir manualmente y Quitar manualmente no: solo cambian el número del icono, sin tocar las casillas de pelaje, Abates ni el Total general; en Troll el panel pregunta el pelaje una vez y vale para todos; en Great One pide una única confirmación. Si no se puede quitar todo lo pedido, el panel avisa cuántos se quitaron. En Diamante, sumar o restar también suma o resta en Abates y en el Total general, como ocurre con el Troll.",
+    "El HUD ahora también es compatible con Streamlabs. El HUD transparente funciona igual en OBS Studio y en Streamlabs (Streamlabs Desktop): los pasos son los mismos y el panel genera los mismos PNG horizontal y vertical. Ventanas, menús, sugerencias, mensajes y la sección Información ahora mencionan ambos programas.",
+    "Copia en la nube: la ventana ya no se queda atascada en \"Enviando a la nube…\". Cuando termina un envío, una comprobación o una actualización, el resultado aparece al instante (hora de la copia y cuántos archivos se enviaron).",
+    "Copia en la nube: la ventana \"Guardado distinto en la nube\" vuelve a abrirse correctamente cuando tu guardado y el de la nube son diferentes. Ahí eliges entre actualizar este equipo con la nube, enviar este equipo a la nube o decidir después.",
+    "Copia en la nube: si algo falla al mostrar el resultado, el panel avisa y libera los botones en lugar de quedarse parado. Usa Comprobar ahora para confirmar que la copia terminó.",
+    "Revisión en 3 idiomas (portugués, inglés y español) de los mensajes nuevos de la Copia en la nube."
+   ]
+  ],
   [
    "v28",
    [
