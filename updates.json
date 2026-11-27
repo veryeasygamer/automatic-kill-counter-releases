@@ -1,6 +1,19 @@
 {
  "pt": [
   [
+   "v31",
+   [
+    "Comprar licença pelo painel: o botão Comprar licença (aviso de licença, menu Licença e janela de acesso) abre a página de compra do site. Escolha 3 meses, 6 meses ou permanente, pague com Pix, cartão, boleto ou saldo do Mercado Pago e a chave aparece na tela assim que o pagamento é confirmado.",
+    "Ranking: o contador de dias restantes da temporada agora aparece inteiro, em uma linha logo abaixo dos botões da tela inicial, em vez de ficar cortado ao lado do botão Ranking.",
+    "Hall da Fama: agora cada temporada encerrada tem um pódio com os 3 primeiros, foto do Ranking, histórico ao passar o mouse, confetes e som de fogos de artifício.",
+    "Ranking: novo sinalizador Online/Offline entre Pos. e Caçador; novos botões ⚖ Critérios de Desempate e ★ Conquistas (passe o mouse nos ícones de conquista para ver o que são).",
+    "Feedback: agora você pode anexar até 3 imagens (📎) para mostrar o problema; elas ficam num armazenamento privado e só o desenvolvedor vê.",
+    "Estatísticas: o Histórico de ciclos agora é um gráfico de pontos (passe o mouse para ver os detalhes), a janela não pisca mais e há o botão ⟳ Atualizar estatísticas.",
+    "Ranking: seus abates agora são enviados e atualizados a cada 30 segundos (antes, 5 minutos).",
+    "Correção: depois de um Great One, o contador Abates continua do número que aparecia na tela (antes podia pular para a contagem automática quando havia ajuste manual)."
+   ]
+  ],
+  [
    "v30",
    [
     "Novo Ranking dos caçadores licenciados (botão Ranking): Abates, Great One, Diamante, Pelagem rara, Super raro e Pontos por temporada, só com abates automáticos. Também há Semana, Por espécie, busca, Hall da Fama, ★ Recordes, ⚖ Regras e ⛔ Banimentos.",
@@ -90,6 +103,19 @@
  ],
  "en": [
   [
+   "v31",
+   [
+    "Buy a license from the panel: the Buy license button (license notice, License menu and access window) opens the purchase page on the website. Pick 3 months, 6 months or permanent, pay with Pix, card, boleto or Mercado Pago balance, and the key shows on screen as soon as the payment is confirmed.",
+    "Ranking: the season days-left counter now shows in full, on a line right below the home screen buttons, instead of being cut off next to the Ranking button.",
+    "Hall of Fame: each closed season now has a podium with the top 3, Ranking photo, record on hover, confetti and fireworks sound.",
+    "Ranking: new Online/Offline indicator between Pos. and Hunter; new ⚖ Tie-break rules and ★ Achievements buttons (hover the achievement icons to see what they are).",
+    "Feedback: you can now attach up to 3 images (📎) to show the problem; they go to private storage and only the developer sees them.",
+    "Statistics: the Cycle history is now a dot chart (hover for details), the window no longer flickers and there is a ⟳ Refresh statistics button.",
+    "Ranking: your kills are now sent and updated every 30 seconds (it was 5 minutes).",
+    "Fix: after a Great One, the Kills counter now continues from the number shown on screen (before it could jump to the automatic count when there was a manual adjustment)."
+   ]
+  ],
+  [
    "v30",
    [
     "New Ranking of licensed hunters (Ranking button): Kills, Great One, Diamond, Rare fur, Super rare and Points per season, counting only automatic kills. It also has Week, By species, search, Hall of Fame, ★ Records, ⚖ Rules and ⛔ Bans.",
@@ -178,6 +204,19 @@
   ]
  ],
  "es": [
+  [
+   "v31",
+   [
+    "Comprar licencia desde el panel: el botón Comprar licencia (aviso de licencia, menú Licencia y ventana de acceso) abre la página de compra del sitio web. Elige 3 meses, 6 meses o permanente, paga con Pix, tarjeta, boleto o saldo de Mercado Pago, y la clave aparece en pantalla en cuanto se confirma el pago.",
+    "Ranking: el contador de días restantes de la temporada ahora se muestra completo, en una línea justo debajo de los botones de la pantalla de inicio, en lugar de verse cortado junto al botón Ranking.",
+    "Salón de la Fama: cada temporada terminada tiene ahora un podio con los 3 primeros, foto del Ranking, historial al pasar el ratón, confeti y sonido de fuegos artificiales.",
+    "Ranking: nuevo indicador En línea/Desconectado entre Pos. y Cazador; nuevos botones ⚖ Criterios de Desempate y ★ Logros (pasa el ratón sobre los iconos de logro para ver qué son).",
+    "Feedback: ahora puedes adjuntar hasta 3 imágenes (📎) para mostrar el problema; quedan en un almacenamiento privado y solo el desarrollador las ve.",
+    "Estadísticas: el Historial de ciclos ahora es un gráfico de puntos (pasa el ratón para ver detalles), la ventana ya no parpadea y hay un botón ⟳ Actualizar estadísticas.",
+    "Ranking: tus cacerías ahora se envían y actualizan cada 30 segundos (antes, 5 minutos).",
+    "Corrección: después de un Great One, el contador de Capturas continúa desde el número que se veía en pantalla (antes podía saltar a la cuenta automática si había un ajuste manual)."
+   ]
+  ],
   [
    "v30",
    [
