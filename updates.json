@@ -1,6 +1,19 @@
 {
  "pt": [
   [
+   "v30",
+   [
+    "Novo Ranking dos caçadores licenciados (botão Ranking): Abates, Great One, Diamante, Pelagem rara, Super raro e Pontos por temporada, só com abates automáticos. Também há Semana, Por espécie, busca, Hall da Fama, ★ Recordes, ⚖ Regras e ⛔ Banimentos.",
+    "No Ranking: foto e apelido, conquistas no perfil do caçador, Seguir amigos (o perfil mostra quantos seguidores o caçador tem) e reações de comemoração ⭐ 🚀 🎉 🔥 nos perfis.",
+    "Zerar Contador e Great One: escolha zerar só Abates ou todos os contadores. Se o Great One for encontrado com o painel fechado, a escolha aparece ao abrir (depois dos créditos) e os abates feitos depois dele são mantidos.",
+    "Estatísticas: novo Histórico de ciclos, com os dados reais de cada Great One encontrado, e as médias de abates, Diamantes, pelagens raras e Super raros até achar um Great One.",
+    "Novo botão Feedback, abaixo de Backup na Nuvem: envie ao desenvolvedor um bug, uma opinião ou uma sugestão.",
+    "Personalizar HUD: imagens PNG com fundo transparente são carregadas direto, sem remover o fundo, no Overlay e no HUD do OBS/Streamlabs.",
+    "Remoção automática de fundo melhorada para JPG, WEBP, BMP e GIF: chifres, galhadas e outras partes finas dos animais não são mais cortados.",
+    "Textos e a janela Informações atualizados em português, inglês e espanhol."
+   ]
+  ],
+  [
    "v29",
    [
     "Estatísticas alinhadas com os contadores: a janela ganhou o quadro Contadores, com Abates, Total Geral, Diamante, Great One, Pelagem rara, Super raro e Troll exatamente como no painel. Para cada um, mostra quanto vem do histórico por dia e quanto foi adicionado manualmente (inserido ou ajustado à mão, ou trazido de outros contadores usados anteriormente). Troll agora também entra no histórico, e Great One não é mais contado como Pelagem rara nas Estatísticas.",
@@ -77,6 +90,19 @@
  ],
  "en": [
   [
+   "v30",
+   [
+    "New Ranking of licensed hunters (Ranking button): Kills, Great One, Diamond, Rare fur, Super rare and Points per season, counting only automatic kills. It also has Week, By species, search, Hall of Fame, ★ Records, ⚖ Rules and ⛔ Bans.",
+    "In the Ranking: photo and nickname, achievements on the hunter's profile, Follow friends (the profile shows how many followers the hunter has) and celebration reactions ⭐ 🚀 🎉 🔥 on profiles.",
+    "Reset Counter and Great One: choose between resetting only Harvests or all counters. If the Great One is found while the panel is closed, the choice appears when you open it (after the credits) and the harvests made after it are kept.",
+    "Statistics: new Cycle history, with the real data of each Great One found, and the averages of harvests, Diamonds, rare furs and Super rares until a Great One is found.",
+    "New Feedback button, below Cloud Backup: send the developer a bug, an opinion or a suggestion.",
+    "Customize HUD: PNG images with a transparent background are loaded as they are, without background removal, in the Overlay and in the OBS/Streamlabs HUD.",
+    "Automatic background removal improved for JPG, WEBP, BMP and GIF: antlers, horns and other thin parts of animals are no longer cut off.",
+    "Texts and the Information window updated in Portuguese, English and Spanish."
+   ]
+  ],
+  [
    "v29",
    [
     "Statistics aligned with the counters: the window now has a Counters card with Harvests, Overall Harvests, Diamond, Great One, Rare fur, Super rare and Troll exactly as in the panel. For each one it shows how much comes from the daily history and how much was added manually (entered or adjusted by hand, or brought from other counters used previously). Troll is now part of the history too, and Great One is no longer counted as Rare fur in Statistics.",
@@ -152,6 +178,19 @@
   ]
  ],
  "es": [
+  [
+   "v30",
+   [
+    "Nuevo Ranking de cazadores con licencia (botón Ranking): Cacerías, Great One, Diamante, Pelaje raro, Súper raro y Puntos por temporada, contando solo las cacerías automáticas. También hay Semana, Por especie, búsqueda, Salón de la Fama, ★ Récords, ⚖ Reglas y ⛔ Baneos.",
+    "En el Ranking: foto y apodo, logros en el perfil del cazador, Seguir amigos (el perfil muestra cuántos seguidores tiene el cazador) y reacciones de celebración ⭐ 🚀 🎉 🔥 en los perfiles.",
+    "Reiniciar contador y Great One: elige entre reiniciar solo Abates o todos los contadores. Si el Great One se encuentra con el panel cerrado, la elección aparece al abrirlo (después de los créditos) y se conservan los abates hechos después.",
+    "Estadísticas: nuevo Historial de ciclos, con los datos reales de cada Great One encontrado, y los promedios de abates, Diamantes, pelajes raros y Súper raros hasta encontrar un Great One.",
+    "Nuevo botón Feedback, debajo de Copia en la nube: envía al desarrollador un bug, una opinión o una sugerencia.",
+    "Personalizar HUD: las imágenes PNG con fondo transparente se cargan tal cual, sin quitar el fondo, en el Overlay y en el HUD de OBS/Streamlabs.",
+    "Eliminación automática del fondo mejorada para JPG, WEBP, BMP y GIF: las astas, cuernos y otras partes finas de los animales ya no se cortan.",
+    "Textos y ventana Información actualizados en portugués, inglés y español."
+   ]
+  ],
   [
    "v29",
    [
